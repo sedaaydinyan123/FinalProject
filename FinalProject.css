@@ -1,0 +1,694 @@
+body{
+    background-color: #e5e5e5;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+div.logo{
+    position: absolute;
+    width: 160px;
+    height: 100px;
+    left: 199px ;
+    top: 4px;
+    background: url('./Logo.png');
+}
+div.background{
+    position: absolute;
+    width: 1920px;
+    height: 971px;
+    left: 0px ;
+    top: 0px;
+    background: url('./background.png');
+}
+div.loremipsum1{
+    position: absolute;
+    width: 600px;
+    height: 88px;
+    left: 232px;
+    top: 352px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 88px;
+    text-transform: uppercase;
+    color: #ffffff;
+}
+div.home{
+    position: absolute;
+    width: 76px;
+    height: 29px;
+    left: 532px;
+    top: 54px;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 29px;
+    color: #ffffff;
+}
+div.portfolio{
+    position: absolute;
+    width: 112px;
+    height: 29px;
+    left: 667px;
+    top: 54px;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 29px;
+    color: #ffffff;
+    
+}
+div.testimonials{
+    position: absolute;
+    width: 165px;
+    height: 29px;
+    left: 830px;
+    top: 54px;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 29px;
+    color: #ffffff;
+}
+div.suppoters{
+    position: absolute;
+    width: 108px;
+    height: 29px;
+    left: 1038px;
+    top: 54px;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 29px;
+    color: #ffffff;
+}
+div.about-us{
+    position: absolute;
+    width: 116px;
+    height: 29px;
+    left: 1387px;
+    top: 54px;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 29px;
+    color: #ffffff;
+}
+div.contact-us{
+    position: absolute;
+    width: 138px;
+    height: 29px;
+    left: 1553px;
+    top: 54px;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 29px;
+    color: #ffffff;
+}
+div.loremipsum1{
+    position: absolute;
+    width: 600px;
+    height: 88px;
+    left: 232px;
+    top: 352px;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 90px;
+    color: #ffffff;
+}
+div.loremipsum-text1{
+    position: absolute;
+    width: 783px;
+    height: 108px;
+    left: 232px;
+    top: 478px;
+    font-style: normal;
+    font-weight: bold;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 36px;
+    color: #ffffff;
+}
+div.Portfolio-page{
+    position: absolute;
+    width: 420.31px;
+    height: 73px;
+    left: 232px;
+    top: 1089px;
+    font-style: normal;
+    font-weight: bold;
+    font-weight: 800;
+    font-size: 60px;
+    line-height: 73px;
+    color: #000000;
+}
+div.loremipsum-text2{
+    position: absolute;
+    width: 1282px;
+    height: 78px;
+    left: 232px;
+    top: 1200px;
+    font-style: normal;
+    font-weight: bold;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+}
+div.loremipsum2{
+    position: absolute;
+    width: 497px;
+    height: 73px;
+    left: 1069px;
+    top: 1407px;
+    font-style: normal;
+    font-weight: bold;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+}
+div.loremipsum-text3{
+    position: absolute;
+    width: 621px;
+    height: 252px;
+    left: 1069px;
+    top: 1518px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: justify ;
+    color: #000000;
+}
+div.photo{
+    position: absolute;
+    width: 813px;
+    height: 645px;
+    left: 96px;
+    top: 1327px;
+    background: url('./Photo.png');
+}
+div.decor-1{
+    position: absolute;
+    width: 1598px;
+    height: 776.47px;
+    left: 998.58px; 
+    top: 1500.32px;
+    background: url('./decor-1.png');
+    transform: rotate(-164.33deg);
+}
+div.Testomonials-page{
+    position: absolute;
+    width: 318px;
+    height: 73px;
+    left: 230px;
+    top: 2025px;
+    font-style: normal;
+    font-weight: bold;
+    font-weight: 800;
+    font-size: 60px;
+    line-height: 73px;
+    color: #000000;
+}
+div.loremipsum-text4{
+    position: absolute;
+    width: 1282px;
+    height: 78px;
+    left: 230px;
+    top: 2166px;
+    font-style: normal;
+    font-weight: bold;
+    font-weight: 800;
+    font-size: 34px;
+    line-height: 39px;
+    color: #000000;
+}
+div.icon1{
+    position: absolute;
+    width: 281px;
+    height: 265px;
+    left: 331px;
+    top: 2324px;
+    background: url('./icon.png');
+}
+div.text1{
+    position: absolute;
+    width: 395px;
+    height: 144px;
+    left: 266px;
+    top: 2691px;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 36px;
+    text-align: center;
+    color: #000000;
+}
+div.icon2{
+    position: absolute;
+    width: 281px;
+    height: 265px;
+    left: 828px;
+    top: 2324px;
+    background: url('./icon.png');
+}
+div.text2{
+    position: absolute;
+    width: 395px;
+    height: 144px;
+    left: 763px;
+    top: 2691px;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 36px;
+    text-align: center;
+    color: #000000;
+}
+div.icon3{
+    position: absolute;
+    width: 281px;
+    height: 265px;
+    left: 1324px;
+    top: 2324px;
+    background: url('./icon.png');
+}
+div.text3{
+    position: absolute;
+    width: 395px;
+    height: 144px;
+    left: 1259px;
+    top: 2691px;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 36px;
+    text-align: center;
+    color: #000000;
+}
+div.Services-page{
+    position: absolute;
+    width: 318px;
+    height: 73px;
+    left: 230px;
+    top: 3023px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 73px;
+    text-transform: uppercase;
+    color: #000000;
+}
+div.loremipsum-text5{
+    position: absolute;
+    width: 1282px;
+    height: 78px;
+    left: 230px;
+    top: 3134px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 39px;
+    text-transform: uppercase;
+    color: #000000;
+}
+div.user-interface{
+    position: absolute;
+    width: 570px;
+    height: 150px;
+    left: 232px;
+    top: 3368px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 73px;
+    text-transform: uppercase;
+    color: #000000;
+}
+div.loremipsum-text6{
+    position: absolute;
+    width: 619px;
+    height: 230.6px;
+    left: 232px;
+    top: 3556px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: justify;
+    color: #000000;
+}
+div.ux{
+    position: absolute;
+    width: 1281px;
+    height: 721px;
+    left: 995px;
+    top: 3179px;
+    background: url('./ux.png');
+}
+div.decor{
+    position: absolute;
+    width: 1598px;
+    height: 776.47px;
+    left: 50.78px;
+    top: 3420.32px;
+    background: url('./decor.png');
+    transform: matrix(0.96,-0.27,-0.27,-0.96,0,0);
+}
+div.Supporters-page{
+    position: absolute;
+    width: 420.31px;
+    height: 73px;
+    left: 232px;
+    top: 4000px;
+    font-style: normal;
+    font-weight: bold;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+}
+div.loremipsum-text7{
+    position: absolute;
+    width: 1282px;
+    height: 78px;
+    left: 230px;
+    top: 4102px;
+    font-style: normal;
+    font-weight: bold;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 39px;
+    color: #000000;
+}
+div.portnior{
+    position: absolute;
+    width: 1460px;
+    height: 122px;
+    left: 232px;
+    top: 4273px;
+    background: url('./portnior.png');
+}
+div.About-us-page{
+    position: absolute;
+    width: 420.31px;
+    height: 73px;
+    left: 232px;
+    top: 4502px;
+    font-style: normal;
+    font-weight: bold;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+}
+div.loremipsum-text8{
+    position: absolute;
+    width: 1282px;
+    height: 78px;
+    left: 231px;
+    top: 4613px;
+    font-style: normal;
+    font-weight: bold;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 39px;
+    color: #000000;
+}
+
+div.icon-1{
+    position: absolute;
+    width: 115px;
+    height: 115px;
+    left: 414px;
+    top: 4813px;
+    background: url('./icon-1.png') ;
+}
+div.title-1{
+    position: absolute;
+    width: 184px;
+    height: 43px;
+    left: 379px;
+    top: 5040px;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 48px;
+    text-transform: uppercase;
+    color: #000000;
+}
+div.text-1{
+    position: absolute;
+    width: 385.53px;
+    height: 62.06px;
+    left: 281px;
+    top: 5141px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    color: #000000;
+}
+div.icon-2{
+    position: absolute;
+    width: 115px;
+    height: 115px;
+    left: 883.62px;
+    top: 4832.1px;
+    background: url('./icon-2.png') ;
+}
+div.title-2{
+    position: absolute;
+    width: 193px;
+    height: 43px;
+    left: 845px;
+    top: 5044px;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 48px;
+    text-transform: uppercase;
+    color: #000000;
+}
+div.text-2{
+    position: absolute;
+    width: 385.53px;
+    height: 62.06px;
+    left: 758px;
+    top: 5135px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    color: #000000;
+}
+div.icon-3{
+    position: absolute;
+    width: 115px;
+    height: 115px;
+    left: 1370.21px;
+    top: 4824.21px;
+    background: url('./icon-3.png')
+}
+div.title-3{
+    position: absolute;
+    width: 193px;
+    height: 43px;
+    left: 1332px;
+    top: 5031px;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 48px;
+    text-transform: uppercase;
+    color: #000000;
+}
+div.text-3{
+    position: absolute;
+    width: 385.53px;
+    height: 62.06px;
+    left: 1245px;
+    top: 5135px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    color: #000000;
+}
+
+div.Contact-us-page{
+    position: absolute;
+    width: 420.31px;
+    height: 73px;
+    left: 232px;
+    top: 5470px;
+    font-style: normal;
+    font-weight: bold;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+}
+div.loremipsum-text9{
+    position: absolute;
+    width: 1282px;
+    height: 78px;
+    left: 230px;
+    top: 5581px;
+    font-style: normal;
+    font-weight: bold;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 39px;
+    color: #000000;
+}
+div.background-1{
+    position: absolute;
+    width: 1920px;
+    height: 425px;
+    left: 0px;
+    top: 6311px;
+    background: url('./background-1.png');
+}
+
+div.portfolio-1{
+    position: absolute;
+    width: 115px;
+    height: 29px;
+    left: 353px;
+    top: 6430px;
+    font-style: normal;
+    font-weight: bold;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 29px;
+    color: #ffffff;
+}
+div.testimonials-1{
+    position: absolute;
+    width: 176px;
+    height: 29px;
+    left: 521px;
+    top: 6430px;
+    font-style: normal;
+    font-weight: bold;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 29px;
+    color: #ffffff;
+}
+div.services-1{
+    position: absolute;
+    width: 114px;
+    height: 29px;
+    left: 737px;
+    top: 6430px;
+    font-style: normal;
+    font-weight: bold;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 29px;
+    color: #ffffff;
+}
+div.suppoters-1{
+    position: absolute;
+    width: 114px;
+    height: 29px;
+    left: 1110px;
+    top: 6436px;
+    font-style: normal;
+    font-weight: bold;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 29px;
+    color: #ffffff;
+}
+div.about-us-1{
+    position: absolute;
+    width: 116px;
+    height: 29px;
+    left: 1302px;
+    top: 6436px;
+    font-style: normal;
+    font-weight: bold;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 29px;
+    color: #ffffff;
+}
+div.contact-us-1{
+    position: absolute;
+    width: 138px;
+    height: 29px;
+    left: 1472px;
+    top: 6436px;
+    font-style: normal;
+    font-weight: bold;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 29px;
+    color: #ffffff;
+}
+
+div.logo-1{
+    position: absolute;
+    width: 160px;
+    height: 100px;
+    left: 840px;
+    top: 6331px;
+    background: url('./Logo.png');
+}
+div.asset-1{
+    position: absolute;
+    width: 51px;
+    height: 51px ;
+    left: 776px;
+    top: 6568px;
+    background: url('./asset-1.png');
+}
+div.asset-2{
+    position: absolute;
+    width: 51px;
+    height: 51px;
+    left: 856px;
+    top: 6568px;
+    background: url('./asset-2.png');
+}
+div.asset-3{
+    position: absolute;
+    width: 51px;
+    height: 51px;
+    left: 933px;
+    top: 6568px;
+    background: url('./asset-3.png');
+}
+div.asset-4{
+    position: absolute;
+    width: 51px;
+    height: 51px;
+    left: 1012px;
+    top: 6568px;
+    background: url('./asset-4.png');
+}
+div.asset-5{
+    position: absolute;
+    width: 51px;
+    height: 51px;
+    left: 1096px;
+    top: 6568px;
+    background: url('./asset-5.png');
+}
+input.w3-input{
+    position: absolute;
+    width: 1460px;
+    height: 257px;
+    left: 230px;
+    top: 5844px;
+    border-radius: 10px;
+    color: bisque;
+}
